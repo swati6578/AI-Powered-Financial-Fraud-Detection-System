@@ -56,7 +56,7 @@ $$Accuracy = \frac{TP + TN}{TP + TN + FP + FN}$$
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/swati6578/AI-Powered-Financial-Fraud-Detection-System.git](https://github.com/swati6578/AI-Powered-Financial-Fraud-Detection-System.git)
+   git clone https://github.com/swati6578/AI-Powered-Financial-Fraud-Detection-System.git
    cd AI-Powered-Financial-Fraud-Detection-System
 2. **Install the required packages:**
     pip install -r requirements.txt
