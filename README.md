@@ -5,7 +5,7 @@ An AI-driven web application designed to protect modern digital banking systems 
 ---
 
 ## 🔗 Live Application Link
-🚀 **Try the Live App Here:** [ai-powered-financial-fraud-detection-system.streamlit.app](https://jviyqtghtaheemd3zn.streamlit.app/)
+🚀 **Try the Live App Here:** [https://github.com/swati6578/AI-Powered-Financial-Fraud-Detection-System)
 
 ---
 
@@ -58,6 +58,7 @@ $$Accuracy = \frac{TP + TN}{TP + TN + FP + FN}$$
    ```bash
    git clone https://github.com/swati6578/AI-Powered-Financial-Fraud-Detection-System.git
    cd AI-Powered-Financial-Fraud-Detection-System
+   ```
 2. **Install the required packages:**
     pip install -r requirements.txt
 3. **Launch the Streamlit app:**
