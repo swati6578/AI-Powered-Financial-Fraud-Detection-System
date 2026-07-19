@@ -58,5 +58,7 @@ $$Accuracy = \frac{TP + TN}{TP + TN + FP + FN}$$
    ```bash
    git clone [https://github.com/swati6578/AI-Powered-Financial-Fraud-Detection-System.git](https://github.com/swati6578/AI-Powered-Financial-Fraud-Detection-System.git)
    cd AI-Powered-Financial-Fraud-Detection-System
-   pip install -r requirements.txt
-   streamlit run app.py
+2. **Install the required packages:**
+    pip install -r requirements.txt
+3. **Launch the Streamlit app:**
+    streamlit run app.py
