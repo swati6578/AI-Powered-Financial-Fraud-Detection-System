@@ -5,7 +5,7 @@ An AI-driven web application designed to protect modern digital banking systems 
 ---
 
 ## 🔗 Live Application Link
-🚀 **Try the Live App Here:** [https://github.com/swati6578/AI-Powered-Financial-Fraud-Detection-System)
+🚀 **Try the Live App Here:** https://ai-powered-financial-fraud-detection-system-jviyqtgbtaheemd3zn.streamlit.app/
 
 ---
 
